@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anjali2622006/Codes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali2622006/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali2622006/Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anjali2622006/Codes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali2622006/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anjali2622006/Codes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali2622006/Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Anjali2622006/Codes/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Anjali2622006/Codes/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anjali2622006/Codes/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
